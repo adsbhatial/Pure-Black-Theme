@@ -1,0 +1,10 @@
+﻿{
+  "appName": {
+    "message": "Pure Black Theme",
+    "description": "Pures Schwarz"
+  },
+  "appDesc": {
+    "message": "Ein leichtes Thema, das Ihnen ein pures Schwarzerlebnis bietet.", 
+    "description":"Dieses Thema schützt Ihre Augen, indem es in Chrome alles Weiß verdunkelt"
+  }
+}

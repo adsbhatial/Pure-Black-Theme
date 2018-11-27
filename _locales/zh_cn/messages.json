@@ -1,0 +1,10 @@
+﻿{
+  "appName": {
+    "message": "Pure Black Theme",
+    "description": "纯黑色"
+  },
+  "appDesc": {
+    "message": "轻巧的主题，为您提供纯黑色体验。", 
+    "description":"这个主题通过使Chrome中的所有白色变暗来保护您的眼睛"
+  }
+}

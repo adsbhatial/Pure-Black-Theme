@@ -1,0 +1,10 @@
+﻿{
+  "appName": {
+    "message": "Pure Black Theme",
+    "description": "Ren Svart"
+  },
+  "appDesc": {
+    "message": "Ett lätt tema för att ge dig en ren svart upplevelse.", 
+    "description":"Detta tema skyddar dina ögon genom att mörka alla vita i Chrome"
+  }
+}

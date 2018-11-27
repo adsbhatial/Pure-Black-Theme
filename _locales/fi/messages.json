@@ -1,0 +1,10 @@
+﻿{
+  "appName": {
+    "message": "Pure Black Theme",
+    "description": "Puhdas Musta"
+  },
+  "appDesc": {
+    "message": "Kevyt teema antaa sinulle puhdas musta kokemus.", 
+    "description":"Tämä teema suojaa silmiäsi tummentamalla kaikki valkoiset Chromessa"
+  }
+}

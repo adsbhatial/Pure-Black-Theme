@@ -1,0 +1,49 @@
+{
+    "version": "1.4.1",
+    "manifest_version": 2,
+    "name": "Pure Black",
+    "short_name": "Black",
+    "description": "A lightweight theme to give you a pure black experience.",
+    "default_locale": "en",
+    "icons": {
+        "128": "images/icon.png"
+	},
+    "theme": {
+        "images" : {
+            "theme_frame": "images/pure_black_theme_frame.png",
+            "theme_toolbar": "images/pure_black_theme_toolbar.png"
+        },
+        "colors" : {
+            "frame" : [0, 0, 0],
+            "frame_inactive" : [20, 20, 20],
+            "frame_incognito" : [0, 0, 0],
+            "frame_incognito_inactive" : [20, 20, 20],
+            "toolbar" : [0,0,0],
+            "tab_text" : [255, 255, 255],
+            "tab_background_text" : [255, 255, 255],
+            "bookmark_text" : [230, 230, 230],
+            "ntp_background" : [0, 0, 0],
+            "ntp_text" : [255, 255, 255],
+            "ntp_link" : [255, 255, 255],
+            "ntp_link_underline" : [255, 255, 255],
+            "ntp_header" : [0, 0, 0],
+            "ntp_section" : [75, 75, 75],
+            "ntp_section_text" : [255, 255, 255],
+            "ntp_section_link" : [6, 55, 116],
+            "ntp_section_link_underline" : [255, 255, 255],
+            "control_background" : [0, 0, 0],
+            "button_background" : [0, 0, 0]
+        },
+        "tints": {
+            "frame_inactive" : [30,30,30],
+            "frame_incognito_inactive" : [30,30,30],
+            "buttons" : [-1,-1,0.96]
+            
+		},
+        "properties" : {
+            "ntp_background_alignment" : "center",
+            "ntp_background_repeat" : "repeat",
+            "ntp_logo_alternate" : 0
+        }
+    }
+}

@@ -1,0 +1,10 @@
+﻿{
+  "appName": {
+    "message": "Pure Black Theme",
+    "description": "퓨어 블랙"
+  },
+  "appDesc": {
+    "message": "가벼운 테마로 순수한 검은 색 경험을 선사합니다.", 
+    "description":"이 테마는 Chrome의 모든 흰색을 어둡게하여 눈을 보호합니다."
+  }
+}

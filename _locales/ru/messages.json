@@ -1,0 +1,10 @@
+﻿{
+  "appName": {
+    "message": "Pure Black Theme",
+    "description": "Чистый черный"
+  },
+  "appDesc": {
+    "message": "Легкая тема, чтобы дать вам чистый черный опыт.", 
+    "description":"Эта тема защищает ваши глаза, затемняя весь белый цвет в Chrome"
+  }
+}

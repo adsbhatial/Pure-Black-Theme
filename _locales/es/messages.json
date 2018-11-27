@@ -1,0 +1,10 @@
+﻿{
+  "appName": {
+    "message": "Pure Black Theme",
+    "description": "Negro puro"
+  },
+  "appDesc": {
+    "message": "Un tema ligero para darte una experiencia negra pura.", 
+    "description":"Este tema protege tus ojos al oscurecer todo el blanco en Chrome"
+  }
+}

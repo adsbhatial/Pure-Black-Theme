@@ -1,5 +1,5 @@
 {
-    "version": "1.4.1",
+    "version": "1.5",
     "manifest_version": 2,
     "name": "Pure Black",
     "short_name": "Black",
@@ -20,7 +20,9 @@
             "frame_incognito_inactive" : [20, 20, 20],
             "toolbar" : [0,0,0],
             "tab_text" : [255, 255, 255],
-            "tab_background_text" : [255, 255, 255],
+            "tab_text_inactive" : [255,255,255],
+            "tab_background_text" : [240, 240, 240],
+            "tab_background_text_inactive" : [240, 240, 240],
             "bookmark_text" : [230, 230, 230],
             "ntp_background" : [0, 0, 0],
             "ntp_text" : [255, 255, 255],
